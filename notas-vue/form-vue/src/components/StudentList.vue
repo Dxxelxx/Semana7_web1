@@ -29,7 +29,7 @@ ul {
 }
 
 li {
-  background: #eee;
+  background: #4a4747;
   margin: 5px 0;
   padding: 10px;
   display: flex;
